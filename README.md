@@ -7,16 +7,12 @@ Observação:
 módulo, por enquanto, não nos permite desfrutar."
 ```
 ## Sem o módulo
-```  
-    const mongoose = require('mongoose');
-    const schema = mongoose.Schema;
-    const model = new schema({object});
-
-    module.exports = mongoose.model('collection_name', model);
-```  
+![Alt Text](https://i.imgur.com/pZOXts0.png)
 
 ## Com o módulo
-```  
-    const schema = require('../mongoose-creator')
-    module.exports = schema('collection_name', {object})
+![Alt Text](https://i.imgur.com/OdV17f6.png)
+
+## Instalação via github
+```
+![Alt Text](https://i.imgur.com/nGRjU0Q.png)
 ```
