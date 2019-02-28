@@ -1,4 +1,4 @@
-# :trollface: Simple Mongoose Creator
+# :trollface: Simple Mongoose Creator - Versão 1
 Com este módulo você vai economizar linhas de código durante a criação de
 esquemas com o mongoose, simples assim.
 ```
