@@ -10,9 +10,7 @@ módulo, por enquanto, não nos permite desfrutar."
 ![Alt Text](https://i.imgur.com/pZOXts0.png)
 
 ## Com o módulo
-![Alt Text](https://i.imgur.com/OdV17f6.png)
+![Alt Text](https://i.imgur.com/LTBpql8.png)
 
 ## Instalação via github
-```
 ![Alt Text](https://i.imgur.com/nGRjU0Q.png)
-```
