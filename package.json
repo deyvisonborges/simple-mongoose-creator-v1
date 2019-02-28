@@ -1,0 +1,24 @@
+{
+  "name": "simple-mongoose-creator-v1",
+  "version": "1.0.0",
+  "description": "Reaproveite linhas na criação de esquemas com mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deeborges/simple-mongoose-creator-v1.git"
+  },
+  "keywords": [
+    "mongoose",
+    "schema",
+    "simple"
+  ],
+  "author": "Deyvison Borges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deeborges/simple-mongoose-creator-v1/issues"
+  },
+  "homepage": "https://github.com/deeborges/simple-mongoose-creator-v1#readme"
+}
